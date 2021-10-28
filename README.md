@@ -7,3 +7,8 @@ This is for submission of assignment on design thinking
 ![Case Study2]
 (https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559463785%2F960x0.jpg%3Ffit%3Dscale)
 
+![Case Study3]
+(https://cf2.ppt-online.org/files2/slide/g/gRhIinyTXYpfM60ZGvwluDOKdrN85S2B19bAmH/slide-0.jpg)
+
+![Case Study4]
+(https://static.startuptalky.com/2021/06/walmart-case-study-startuptalky.jpg)
