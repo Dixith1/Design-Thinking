@@ -11,4 +11,4 @@ This is for submission of assignment on design thinking
 (https://cf2.ppt-online.org/files2/slide/g/gRhIinyTXYpfM60ZGvwluDOKdrN85S2B19bAmH/slide-0.jpg)
 
 ![Case Study4]
-(https://static.startuptalky.com/2021/06/walmart-case-study-startuptalky.jpg)
+(https://www.worldatlas.com/r/w960-q80/upload/3c/54/b6/shutterstock-152288732.jpg)
