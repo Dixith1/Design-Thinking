@@ -1,2 +1,2 @@
 # Design-Thinking
-Worked case studies
+This is for submission of assignment on design thinking
