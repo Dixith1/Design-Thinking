@@ -1,2 +1,2 @@
 # Design-Thinking
-This is for Assignment purpose
+Worked case studies
