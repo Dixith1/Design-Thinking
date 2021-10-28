@@ -2,4 +2,4 @@
 This is for submission of assignment on design thinking
 
 ![Case Study1]
-(https://images.indianexpress.com/2020/08/kerala-crash.jpg)
+(https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
