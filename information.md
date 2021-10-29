@@ -7,12 +7,12 @@ Imagine you are in 1977 and you work as an air crash investigation officer on th
  
 You have been tasked with investigating this incident to find the possible root causes for the crash. 
 
-Case Study 2:
+Case Study2:
 Big Data Consultant in Complex Data
 
-Case Study 3:
+Case Study3:
 Starbucks
 
-Case Study 4:
+Case Study4:
 WalStore Supermarket chain
 
