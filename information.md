@@ -18,5 +18,5 @@
 
 ***Case Study4:***
 
-*WalStore Supermarket chain*
+*WalStore Supermarket chain.*
 
