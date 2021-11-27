@@ -8,6 +8,8 @@
 
 ![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
 
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+
 ***Case Study2***
 
 ![Image2](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559463785%2F960x0.jpg%3Ffit%3Dscale)
