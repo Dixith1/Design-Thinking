@@ -4,7 +4,7 @@
 
 ***Case Study1***
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
+![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
 
 ***Case Study2***
 
