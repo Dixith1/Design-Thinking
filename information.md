@@ -1,6 +1,6 @@
 **This is a information file about the assignment.**:writing_hand:
 
-***This project is involved 4 case studies.***
+***This project is involved 4 case studies.***:four:
 
 ***Case Study 1:***:airplane:
 
