@@ -1,6 +1,6 @@
 # Design-Thinking
 
-##**This is for submission of assignment on design thinking with a Picture to clear understand which project i worked**
+## **This is for submission of assignment on design thinking with a Picture to clear understand which project i worked**
 
 :small_orange_diamond:***Case Study1***
 
