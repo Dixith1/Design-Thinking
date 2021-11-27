@@ -3,8 +3,8 @@
 **This is for submission of assignment on design thinking with a Picture to clear understand which project i worked**
 
 ***Case Study1***
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
 
 ***Case Study2***
 
