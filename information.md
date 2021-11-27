@@ -1,4 +1,4 @@
-**This is a information file about the assignment.**
+**This is a information file about the assignment.**:writing_hand:
 
 ***This project is involved 4 case studies.***
 
