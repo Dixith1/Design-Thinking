@@ -8,15 +8,15 @@
  
 *You have been tasked with investigating this incident to find the possible root causes for the crash.*
 
-***Case Study2:***
+***Case Study2:***:bar_chart:
 
 *Big Data Consultant in Complex Data*
 
-***Case Study3:***:supermarket_store:
+***Case Study3:***:coffee:
 
 *Starbucks*
 
-***Case Study4:***
+***Case Study4:***:department_store:
 
 *WalStore Supermarket chain.*
 
