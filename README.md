@@ -2,6 +2,8 @@
 
 **This is for submission of assignment on design thinking with a Picture to clear understand which project i worked**
 
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 ***Case Study1***
 
 ![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
