@@ -2,7 +2,7 @@
 
 ## **This is for submission of assignment on design thinking with a Picture to clear understand which project i worked**
 
-###### :small_orange_diamond:***Case Study1***
+:small_orange_diamond:***Case Study1***
 
 ![Image1](https://tailstrike.com/media/k4oilqrj/klm-4805-1.jpg)
 
