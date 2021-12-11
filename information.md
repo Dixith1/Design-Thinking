@@ -22,4 +22,3 @@
 
 If this project inspired you, gave you ideas for your own portfolio or helped you, please consider [buying me a coffee](buymeacoffee.com/dixith):coffee:
 
-[Dixith1.com](http://dixith1.com)
