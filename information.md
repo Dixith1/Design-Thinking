@@ -22,4 +22,3 @@
 
 If this project inspired you, gave you ideas for your own portfolio or helped you, please consider [buying me a coffee](buymeacoffee.com/dixith):coffee:
 
-[![Dixith Kumar](https://user-images.githubusercontent.com/93037047/145665243-815ec767-791d-42dd-86f0-697d986801d5.jpg)](https://dixith1.com/)
